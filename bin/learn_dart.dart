@@ -1,3 +1,5 @@
 void main(List<String> arguments) {
-  print('Hello world!');
+  var helloString = 'Hello';
+  print(helloString);
+  helloString.contains('H');
 }
